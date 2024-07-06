@@ -1,5 +1,4 @@
-import url
-import tkinter
+import browser
 
 def main ():
     # print(f"The URL scheme is: {url.scheme}, the URL host is {url.host} and the URL path is {url.path}")
